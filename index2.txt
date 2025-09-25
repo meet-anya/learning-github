@@ -3,3 +3,4 @@ This is 2nd File.
 Added more content to file 2
 
 add another marketing line
+add footer note
