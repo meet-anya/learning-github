@@ -30,3 +30,6 @@ another fix
 another fix
 another fix
 more fixes
+
+
+another fix for pink mode
