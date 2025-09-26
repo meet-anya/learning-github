@@ -33,3 +33,4 @@ more fixes
 
 
 another fix for pink mode
+another fix for purple mode
